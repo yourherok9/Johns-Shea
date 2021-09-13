@@ -1,2 +1,2 @@
-vmess://ws+tls:a901ee4d-5a72-404b-a52c-ba4107e676d5-64@172.64.75.225:443/?allowInsecure=true&tlsServerName=crimson-boat-3598.verymeaningfulcreation.workers.dev#01
-vmess://ws+tls:28118338-a87e-4d2c-b04b-2d398e09db80-64@172.64.95.220:443/?allowInsecure=true&tlsServerName=broad-surf-da3b.verymeaningfulcreation.workers.dev#172.64.95.220-[44]-vmess
+vless://126ce529-15ca-4220-8b95-54368a1fb5b5@172.64.67.221:443?type=ws&security=tls&path=%2F&host=tiny-bread-4cee.verymeaningfulcreation.workers.dev&sni=tiny-bread-4cee.verymeaningfulcreation.workers.dev#2--xray
+vmess://ws+tls:a901ee4d-5a72-404b-a52c-ba4107e676d5-64@172.64.75.216:443/?host=crimson-boat-3598.verymeaningfulcreation.workers.dev&tlsServerName=crimson-boat-3598.verymeaningfulcreation.workers.dev#3--vmess
